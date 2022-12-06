@@ -1,0 +1,37 @@
+movie name
+movie description
+runtime(show timings)
+genre
+Ratings
+
+Drishyam 2
+7 years after the case related to Vijay Salgaonkar and his family was closed, a series of unexpected events bring a truth to light that threatens to change everything for the Salgaonkars. Can Vijay save his family this time?
+9,12,15,18,21
+Drama, Mystery, Thriller
+9
+
+
+Bhediya
+Set in the mesmerising forests of Arunachal, Bhediya tells the story of Bhaskar, a man who gets bitten by a mythical wolf, and begins to transform into the creature himself. As Bhaskar and his ragtag buddies try to find answers, a bunch of twists, turns and laughs ensue.
+14,17,22
+Comedy, Thriller
+8.1
+
+
+Avatar:The Way Of Water
+Set more than a decade after the events of the first film, "Avatar The Way of Water" begins to tell the story of the Sully family (Jake, Neytiri and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive and the tragedies they endure.
+7,11,14,17,22
+Action, Adventure, Fantasy, Sci-Fi
+9.5
+
+Uunchai
+Three friends take a trek to the Everest Base Camp which becomes a personal, emotional and spiritual journey while battling their physical limitations and discovering the true meaning of freedom.
+9,12,15,18,21
+Adventure, Family, Drama
+8.4
+
+Black Panther: Wakanda Forever
+Set more than a decade after the events of the first film, "Avatar The Way of Water" begins to tell the story of the Sully family (Jake, Neytiri and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive and the tragedies they endure.
+10,14,17,22
+Action, Adventure, Drama
+8.7
